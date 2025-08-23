@@ -1,0 +1,9 @@
+.Ingrediente-faltante{
+    color: red;
+}
+.Ingrediente-secreto{
+    color: blue;
+}
+li{
+    color: gray;
+}
