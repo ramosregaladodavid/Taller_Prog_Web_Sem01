@@ -1,9 +1,24 @@
-.Ingrediente-faltante{
-    color: red;
-}
-.Ingrediente-secreto{
+p{
     color: blue;
+    font-family: sans-serif,tahoma;
+    font-size: 30px;
+    font-weight: bold;
+    font-style: italic;
+    text-align: justify;
+    line-height: 2;
+    letter-spacing: 3px;
 }
-li{
-    color: gray;
+h1{
+    text-align: center;
+    text-decoration: underline;
+    font-weight: bold;
+}
+span{
+    text-decoration: line-through;
+    color: brown;
+}
+a{
+    font-size: 60px;
+    color: green;
+    text-decoration: none;
 }
